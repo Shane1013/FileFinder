@@ -1,4 +1,4 @@
-# FileSearcher
+# FileFinder
 Locate any file on your computer!
 
 Have you lost a file but still know the name of it? Well then you can use FileSearcher! You type the name of your file
